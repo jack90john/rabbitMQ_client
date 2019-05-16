@@ -1,9 +1,8 @@
-<p>
-  <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE_CN">
-    <img alt="996icu" src="https://img.shields.io/badge/license-NPL%20%28The%20996%20Prohibited%20License%29-blue.svg">
-  </a>
-</p>
-
+[![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/halx99/yasio/releases)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg?style=flat-square)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/jack90john/rabbitMQ_client.svg?label=Stars)](https://github.com/jack90john/rabbitMQ_client)
+[![GitHub forks](https://img.shields.io/github/forks/jack90john/rabbitMQ_client.svg?label=Fork)](https://github.com/jack90john/rabbitMQ_client)
 # Rabbit MQ 消息发布/消费客户端
 
 ## 使用说明
