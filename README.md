@@ -8,18 +8,16 @@
 
 ## 使用说明
 
-1. 将本项目打包，得到jar包，或发布到maven私有仓库
-
-2. 在项目中引入客户端
+1. 在项目中引入客户端
     ```xml
         <dependency>
-            <groupId>com.jlkj</groupId>
-            <artifactId>bbplus-msgclient</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <groupId>com.jack90john</groupId>
+            <artifactId>rabbitMQ_client</artifactId>
+            <version>1.0.0</version>
         </dependency>
     ```
     
-3. 在项目中增加rabbitMQ相关配置
+2. 在项目中增加rabbitMQ相关配置
 
     ```text
         #rabbitMQ
@@ -38,7 +36,7 @@
         test.queue=test.queue
     ```
     
-4. 使用客户端
+3. 使用客户端
 
 ```java
     //增加队列名称类
